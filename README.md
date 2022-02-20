@@ -8,6 +8,5 @@ My name is Jakub and I'm a C++ and C software engineer from Warsaw, Poland.
 <img align="left" alt="c++" src="https://img.shields.io/badge/-C%2B%2B-success" />
 <img align="left" alt="c" src="https://img.shields.io/badge/-C-green" />
 <img align="left" alt="qt" src="https://img.shields.io/badge/-Qt-yellow" />
-<img align="left" alt="GitHub" src="https://img.shields.io/badge/-Github-orange" />
-<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-red" /><br>
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-orange" /><br>
 <br>
