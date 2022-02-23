@@ -1,6 +1,6 @@
 ### Hello There ✋
 My name is Jakub and I'm a C++ and C software engineer from Warsaw, Poland. I am currently studying computer science on a university.<br>
-In the future I would love to create mobile aplications that will help people and make their life easier thanks to modern solutions.
+In the future I would love to create mobile aplications that will help people and make their life easier thanks to modern solutions.<br>
 Recantly I became really interested in cryptocurrency. Currently, I'm introducing myself to the fascinating wordl of Bitcoin and blockchain.
 
 ## Technologies I use
