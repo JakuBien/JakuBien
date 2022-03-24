@@ -8,6 +8,7 @@ Recantly I became really interested in cryptocurrency. Currently, I'm introducin
 <img align="left" alt="c" src="https://img.shields.io/badge/-C-green" />
 <img align="left" alt="qt" src="https://img.shields.io/badge/-Qt-yellow" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-orange" /><br>
+<img align="left" alt="QML" src="https://img.shields.io/badge/-QML-red" /><br>
 <br>
 
 ## Find me here
