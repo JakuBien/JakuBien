@@ -1,20 +1,61 @@
-### Hello There ✋
-My name is Jakub and I'm a C++ and C software engineer from Warsaw, Poland. I am currently studying computer science at an university.<br>
-In the future I would love to create mobile applications that will help people and make their life easier thanks to modern solutions.<br>
-Recently I became really interested in cryptocurrency. Currently, I'm introducing myself to the fascinating world of Bitcoin and blockchain.
+# 👋 Hello, I'm Jakub Bień
 
-## Technologies I use
-<img align="left" alt="c++" src="https://img.shields.io/badge/-C%2B%2B-success" />
-<img align="left" alt="c" src="https://img.shields.io/badge/-C-green" />
-<img align="left" alt="qt" src="https://img.shields.io/badge/-Qt-yellow" />
-<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-orange" />
-<img align="left" alt="QML" src="https://img.shields.io/badge/-QML-red" />
-<img align="left" alt="SQL" src="https://img.shields.io/badge/-SQL-pink" />
-<br>
-<br>
+## 💻 C++ Software Engineer | AI Enthusiast | Problem Solver
 
-## Find me here
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jakub-bie%C5%84-804734232/)<br>
-<br>
+I'm a software engineer from Warsaw, Poland, specializing in C++ development with a focus on real-time video processing, CCTV management systems, and AI technologies.
 
+## 🔧 Technical Skills
 
+- **Languages:** C++, Python, Golang, C, SQL
+- **Frameworks & Tools:** Qt, Linux, Git, API Development
+- **Methodologies:** Agile, Scrum
+- **Project Management:** Jira
+
+## 🚀 Professional Experience
+
+Currently working at **BCS Sp. z o.o.** as a **C++ Software Engineer** where I:
+- Engineer comprehensive CCTV management platforms
+- Develop real-time video and audio stream processing systems
+- Implement advanced image analysis algorithms
+- Design intuitive user interfaces for complex systems
+- Scale solutions from individual deployments to enterprise-grade monitoring centers
+
+## 🔬 Projects
+
+### AI Strategy Evaluation in Prisoner's Dilemma through Cellular Automata
+- Collaborative project with a Luxembourg computer science laboratory
+- Analysis of AI algorithm performance in iterative Prisoner's Dilemma scenarios
+- Implementation of Conway's Game of Life mechanics for strategic interaction simulation
+- Real-time data visualization systems with animated representations
+
+### Neural Music Recommendation Engine
+- Personalized music recommendation system using neural embedding technology
+- Automated pipeline for YouTube music processing and audio embedding generation
+- Scalable similarity search system based on vector similarity algorithms
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**  
+Cardinal Stefan Wyszynski University (2020-2023)
+
+## 🌱 Current Interests
+
+- **AI/ML Technologies:** LLM Implementation, Chatbot Development, Computer Vision
+- **Natural Language Processing**
+- **Generative AI**
+
+## 🎯 Beyond Code
+
+- Martial Arts Practitioner
+- Football Player
+- Watch Enthusiast - collecting and studying mechanical timepieces
+
+## 📫 Connect With Me
+
+- Email: jakub.bien257@gmail.com
+- Phone: +48 730 808 875
+- Location: Warsaw, Poland
+
+---
+
+*"The best way to predict the future is to create it."*
